@@ -2,9 +2,9 @@ TOKEN = 'TOKEN'
 
 
 HOST = "127.0.0.1"
-USER = "postgres"
-PASSWORD = "12q12q12"
-DB_NAME = "f8" 
+USER = "USER"
+PASSWORD = "PASSWORD"
+DB_NAME = "DB_NAME" 
 
 
 ASSISTANTS = [
